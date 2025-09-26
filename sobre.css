@@ -1,12 +1,46 @@
-<<<<<<< HEAD
-body
-{
-    font-family: "Helvetica", "Lucida Grande", sans-serif;
-    color: #3d3d3d
-=======
 body 
 {
-    font-family: "Helvetica", "Lucida Grande", sans-serif;
-    color: #3D3D3D;
->>>>>>> f796ed4105d5771192f8a49282b343bad12c8251
+   width: 940px;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: "Helvetica", "Lucida Grande", sans-serif;
+   color: #1c0041;
+}
+h1 {
+    padding: 10px;
+    background-color: #b46dc2;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+}
+figure {
+    margin:5px;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(188, 108, 204);
+    border:1px solid rgb(24, 23, 23); 
+}
+
+figcaption {
+    margin-top: 10px;
+}
+
+.matriz-empresa
+{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.criadores
+{
+    width:300px;
+    float: right;
+    
+}
+
+figure img 
+{
+    width: 100%;
 }
